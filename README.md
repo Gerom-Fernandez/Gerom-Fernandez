@@ -3,9 +3,9 @@
 </h1>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Software+Engineer;Computer+Science+Student;Always+learning+new+things" alt="Typing SVG">
-  </a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%"></a>
+  <a><img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/banner-header.gif"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%"></a>
 </p>
 
 <br>
@@ -74,4 +74,22 @@
   </a>
 </p>
 
+### <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Database.gif?raw=true" width="50" alt="DB"></picture> Bases de Datos
+<p align="center"> 
+  <a href="https://www.w3schools.com/sql/" target="_blank"> 
+    <img alt="SQL" src="https://img.shields.io/badge/SQL-%234479A1.svg?style=plastic&logo=postgresql&logoColor=white">
+  </a>
+</p>
 
+## 📊 Porcentaje de mis Habilidades
+<p align="center">
+  <img src="https://img.shields.io/badge/React-50%25-61DAFB?style=for-the-badge&logo=React&logoColor=white" alt="React"/>
+  <img src="https://img.shields.io/badge/Python-40%25-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/HTML5-20%25-E34F26?style=for-the-badge&logo=HTML5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS-30%25-1572B6?style=for-the-badge&logo=CSS3&logoColor=white" alt="CSS"/>
+  <img src="https://img.shields.io/badge/JavaScript-30%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript"/>
+  <img alt="SQL" src="https://img.shields.io/badge/SQL-40%25-4479A1?style=for-the-badge&logo=postgresql&logoColor=white">
+</p>
+
+  
+  
