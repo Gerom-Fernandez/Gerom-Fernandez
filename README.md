@@ -84,11 +84,11 @@
 ## 📊 Porcentaje de mis Habilidades
 <p align="center">
   <img src="https://img.shields.io/badge/React-30%25-61DAFB?style=for-the-badge&logo=React&logoColor=white" alt="React"/>
-  <img src="https://img.shields.io/badge/Python-40%25-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Python-30%25-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/HTML5-20%25-E34F26?style=for-the-badge&logo=HTML5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS-30%25-1572B6?style=for-the-badge&logo=CSS3&logoColor=white" alt="CSS"/>
-  <img src="https://img.shields.io/badge/JavaScript-30%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript"/>
-  <img alt="SQL" src="https://img.shields.io/badge/SQL-40%25-4479A1?style=for-the-badge&logo=postgresql&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS-20%25-1572B6?style=for-the-badge&logo=CSS3&logoColor=white" alt="CSS"/>
+  <img src="https://img.shields.io/badge/JavaScript-20%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript"/>
+  <img alt="SQL" src="https://img.shields.io/badge/SQL-20%25-4479A1?style=for-the-badge&logo=postgresql&logoColor=white">
 </p>
 
   
