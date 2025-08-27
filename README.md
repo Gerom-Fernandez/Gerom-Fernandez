@@ -83,7 +83,7 @@
 
 ## 📊 Porcentaje de mis Habilidades
 <p align="center">
-  <img src="https://img.shields.io/badge/React-50%25-61DAFB?style=for-the-badge&logo=React&logoColor=white" alt="React"/>
+  <img src="https://img.shields.io/badge/React-30%25-61DAFB?style=for-the-badge&logo=React&logoColor=white" alt="React"/>
   <img src="https://img.shields.io/badge/Python-40%25-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/HTML5-20%25-E34F26?style=for-the-badge&logo=HTML5&logoColor=white" alt="HTML5"/>
   <img src="https://img.shields.io/badge/CSS-30%25-1572B6?style=for-the-badge&logo=CSS3&logoColor=white" alt="CSS"/>
