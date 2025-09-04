@@ -74,7 +74,7 @@
   </a>
 </p>
 
-### <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Database.gif?raw=true" width="50" alt="DB"></picture> Bases de Datos
+### <img src="https://cdn-icons-png.flaticon.com/512/6062/6062646.png" width="50" alt="Lenguajes"> Lenguajes de Programación
 <p align="center"> 
   <a href="https://www.w3schools.com/sql/" target="_blank"> 
     <img alt="SQL" src="https://img.shields.io/badge/SQL-%234479A1.svg?style=plastic&logo=postgresql&logoColor=white">
@@ -90,6 +90,3 @@
   <img src="https://img.shields.io/badge/JavaScript-20%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript"/>
   <img alt="SQL" src="https://img.shields.io/badge/SQL-20%25-4479A1?style=for-the-badge&logo=postgresql&logoColor=white">
 </p>
-
-  
-  
