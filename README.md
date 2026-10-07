@@ -157,7 +157,7 @@ Soporte TI a las unidades del grupo: hoteles, gimnasios y oficinas corporativas.
 
 [![Gmail](https://img.shields.io/badge/gerom.p25%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gerom.p25@gmail.com?subject=Hola%20Gerom&body=Hola%20Gerom,%0A%0A)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gerom-fernandez)
-[![WhatsApp](https://img.shields.io/badge/%2B56%209%207761%209531-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/56977619531?text=Hola,%20quiero%20contactarte)
+[![WhatsApp](https://img.shields.io/badge/%2B56%209%206909%200843-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/56969090843?text=Hola,%20quiero%20contactarte)
 
 </div>
 
