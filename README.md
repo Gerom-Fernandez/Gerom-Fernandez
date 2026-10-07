@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117,1a1a2e,16213e&height=200&section=header&text=Gerom%20Fern%C3%A1ndez&fontSize=52&fontColor=E0E0E0&fontAlignY=38&desc=Data%20Analyst%20%7C%20Web%20Developer%20%7C%20IT%20Support&descSize=16&descAlignY=58&descColor=6E7BF2" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117,1a1a2e,16213e&height=200&section=header&text=Gerom%20Fern%C3%A1ndez&fontSize=52&fontColor=E0E0E0&fontAlignY=38&desc=Data%20Analyst%20%7C%20IT%20Support&descSize=16&descAlignY=58&descColor=6E7BF2" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=6E7BF2&center=true&vCenter=true&random=false&width=600&lines=Ingeniero+en+Inform%C3%A1tica+%E2%80%94+Duoc+UC+2024;Analista+de+Datos+Junior;Desarrollador+Web+Junior;Siempre+aprendiendo+algo+nuevo+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=6E7BF2&center=true&vCenter=true&random=false&width=600&lines=Ingeniero+en+Inform%C3%A1tica+%E2%80%94+Duoc+UC;Analista+de+Datos+Junior;Power+BI+%C2%B7+SQL+%C2%B7+Python;Soporte+TI+%C2%B7+Automatizaci%C3%B3n)](https://git.io/typing-svg)
 
 </div>
 
@@ -13,15 +13,16 @@
 ```yaml
 nombre     : Gerom Javier Fernández Perea
 ubicación  : Santiago, Región Metropolitana, Chile
-título     : Ingeniero en Informática — Duoc UC (Voto de Distinción, 2024)
-buscando   : Analista de Datos Junior / Desarrollador Web Junior
+título     : Ingeniero en Informática — Duoc UC (2024)
+actualmente: Soporte TI — Nutech (Campos Clínicos, Universidad Andrés Bello)
+buscando   : Analista de Datos Junior · Analista TI
 disponible : Presencial · Híbrido · Remoto
 ```
 
-- 🎓 Titulado con **Voto de Distinción** en Ingeniería en Informática — Duoc UC, Antonio Varas
-- 📊 Especialización en **Ciencias de Datos** (Duoc UC, Agosto 2025) + Diplomado en Python & Data Analytics en curso
-- 💡 Apasionado por convertir datos en decisiones y construir interfaces limpias y funcionales
-- 🌐 Portafolio web en desarrollo con HTML, CSS y JS puro — migración a React planificada
+- 🎓 Ingeniero en Informática — Duoc UC, sede Antonio Varas
+- 📊 Especialización en **Ciencia de Datos** (Duoc UC, 2025) + **Diplomado en Python & Data Analytics** — Universidad Andrés Bello (en curso, término nov. 2026)
+- 💡 Convierto datos en decisiones: además de mis proyectos, en mi trabajo actual elaboro reportes de ocupación con dashboard y diseñé un sistema de registro digital sin costo
+- 🖥️ Experiencia en soporte TI en entornos reales: universidad, clínica y corporativo
 - 🤝 Abierto a nuevas oportunidades laborales
 
 ---
@@ -33,46 +34,22 @@ disponible : Presencial · Híbrido · Remoto
 <div align="left">
 
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-![Looker Studio](https://img.shields.io/badge/Looker%20Studio-4285F4?style=for-the-badge&logo=google&logoColor=white)
-
-</div>
-
-**Power BI:** Modelado estrella · DAX avanzado · Power Query · Dashboards interactivos · Diagramas Sankey · Treemap · Stream Chart · Análisis de influencia con IA · Segmentadores avanzados
-
-**Python / Pandas:** Limpieza de datos · EDA · Manejo de nulos / duplicados / outliers · Identificación de patrones y correlaciones
-
-**SQL / MySQL:** SELECT · JOINs · Subconsultas · GROUP BY · Bases de datos relacionales
-
-**Competencias analíticas:** ETL básico · Modelado de datos · Definición de KPIs · Visualización orientada a decisiones · Segmentación de clientes · Análisis de campañas comerciales
-
----
-
-### 🌐 Desarrollo Web
-
-<div align="left">
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![SASS](https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript%20ES6+-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 </div>
 
-**Dominio sólido:** HTML5 · CSS3 · SASS · JavaScript ES6+ · Python · PHP · Django · Git
+**Power BI:** Modelado estrella · DAX · Power Query · Dashboards interactivos · Diagramas Sankey · Treemap · Stream Chart · Análisis de influencia con IA · Segmentadores avanzados
 
-**En formación activa:** React (Hooks · Redux · Context API · Next.js · Router) — curso avanzado Udemy en progreso
+**SQL:** Consultas · JOINs · Agregaciones · Bases de datos relacionales
 
-**Proyecto actual:** Portafolio web personal en HTML/CSS/JS puro, con migración planificada a React
+**Python / Pandas:** Limpieza de datos · EDA · Transformación y análisis exploratorio
+
+**Excel / Google Sheets:** Tablas dinámicas · Fórmulas de validación y consulta · Dashboards · Google Forms como fuente de datos
 
 ---
 
@@ -81,94 +58,96 @@ disponible : Presencial · Híbrido · Remoto
 <div align="left">
 
 ![Windows](https://img.shields.io/badge/Windows%2010%2F11-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Windows Server](https://img.shields.io/badge/Windows%20Server-0078D6?style=for-the-badge&logo=windowsserver&logoColor=white)
 ![Active Directory](https://img.shields.io/badge/Active%20Directory-003366?style=for-the-badge&logo=microsoft&logoColor=white)
 ![Microsoft 365](https://img.shields.io/badge/Microsoft%20365-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![Google Workspace](https://img.shields.io/badge/Google%20Workspace-4285F4?style=for-the-badge&logo=google&logoColor=white)
 
 </div>
 
-**Sistemas:** Windows 10/11 · Windows Server (nivel usuario)
+**Soporte:** Diagnóstico de hardware, software y conectividad · Soporte presencial y remoto (Google Remote Desktop) · Gestión de tickets · Documentación técnica
 
-**Herramientas:** Microsoft 365 · Outlook · Teams · OneDrive · Active Directory (usuarios, contraseñas, permisos)
+**Infraestructura:** Administración de CCTV · Automatización de tareas en equipos (encendido/apagado programado, limpieza, restricciones) · Levantamiento de activos TI · Coordinación con proveedores
 
-**Redes:** Cableado Ethernet · Routers · Configuración IP · Impresoras en red
-
-**Soporte:** Diagnóstico hardware/software · Presencial · Remoto · En terreno · Levantamiento de activos TI · CCTV básico
+**Desarrollo (formación):** Python · Django · MySQL · HTML · CSS · JavaScript
 
 ---
 
 ## 🚀 Proyectos Destacados
 
-### 📊 Dashboard Operacional de Ventas — Power BI
-> 5 KPIs clave: facturación ($69,95M), volumen (27,25M unidades), rendimiento, variación y comparativo mensual
-> Modelado estrella · Power Query · DAX avanzado · Stream Chart · Treemap · Tabla matricial por región/sucursal/año
+### 📊 [Dashboard Operacional de Ventas — Power BI](https://github.com/Gerom-Fernandez/dashboard-ventas-sucursales-powerbi)
+> Facturación de una cadena de 10 sucursales en 4 regiones (2024–2026): 27,25M unidades y $69,95M facturados
+> Power Query (ETL) · Modelado estrella · DAX · Stream Chart · Treemap · Tabla matricial por región/sucursal/año
 
----
-
-### 🏪 Dashboard ElectroMás — Power BI
-> Identidad visual propia con logo y paleta de colores corporativos
-> Mapa geográfico por ciudad · Análisis canal online vs tienda física · Segmentadores como botones interactivos
-
----
+### 🏪 [Dashboard ElectroMás — Power BI](https://github.com/Gerom-Fernandez/dashboard-electromas-powerbi)
+> Reporte con identidad visual propia para un retail de electrónica: canal online (85,5%) vs. tienda física (14,5%)
+> Mapa geográfico por ciudad · Análisis por categoría · Segmentadores como botones interactivos
 
 ### 📞 Dashboard Call Center — Power BI
-> 3 páginas: nube de palabras (texto libre) · Diagrama Sankey (flujo de llamadas) · Análisis de Performance con IA integrada
-> Análisis de influencia: identifica variables que impactan la calificación de atención al cliente
+> 3 páginas: nube de palabras sobre reviews · Diagrama Sankey del flujo de llamadas · Análisis de influencia con IA
+> Hallazgo: los tiempos de espera son el principal punto crítico en la experiencia del cliente
 
----
-
-### 🐍 Análisis Exploratorio de Datos — Python / Pandas
-> Limpieza de datasets reales · EDA completo · Visualización de hallazgos
-> Identificación de patrones, correlaciones y outliers
-
----
-
-## 📜 Certificaciones
-
-| Certificación | Institución | Año |
-|---|---|---|
-| Power BI TOTAL — Analista de Datos Avanzado (15,5 hrs) | Udemy | 2026 |
-| SQL TOTAL — Bases de Datos de 0 a Avanzado (7,5 hrs) | Udemy | 2026 |
-| Diplomado en Python y Data Analytics | En curso | 2025–2026 |
-| Especialización en Ciencias de Datos | Duoc UC | 2025 |
-| Inteligencia de Negocios (Business Intelligence) | Duoc UC | 2024 |
-| Análisis y Desarrollo de Modelos de Datos | Duoc UC | 2024 |
-| Análisis y Planificación de Requerimientos Informáticos | Duoc UC | 2024 |
-| Programación de Software | Duoc UC | 2024 |
-| Gestión de Proyectos Informáticos | Duoc UC | 2024 |
-| Calidad de Software | Duoc UC | 2024 |
-| Arquitectura de Software | Duoc UC | 2024 |
-| Inglés Intermedio Alto | Duoc UC (Internacional) | 2024 |
+### 🏠 Sistema de registro y reporte de ocupación — Trabajo actual
+> Reemplacé la captura manual de asistencia de las casas de estudiantes por un registro con Google Forms + Google Sheets que valida automáticamente si el alumno está inscrito
+> Reporte trimestral en Excel con dashboard de ocupación por casa, carrera y día
 
 ---
 
 ## 💼 Experiencia Profesional
 
-**🔹 Técnico de Soporte TI · Nutech SpA** *(Feb. 2026 – Presente · Proyectos)*
+**🔹 Soporte TI · Inversiones Nutech Chile** *(Jun. 2026 – Actualidad · Presencial)*
 
-- Soporte TI N1 presencial en Universidad Andrés Bello (reemplazo de vacaciones, ~1 mes)
-- Monitoreo y mantención básica de sistemas CCTV (~1 semana)
-- Levantamiento y registro de activos TI en base de datos Excel (en curso, ~1 mes)
+Asignado a los Campos Clínicos de la Universidad Andrés Bello, con base en Clínica Indisa y atención a dos casas de estudiantes.
 
-**🔹 Técnico de Soporte TI · Hwang Corporativo** *(Jun. 2024 – Sep. 2024 · Plazo fijo)*
+- Soporte y mantención de 29 equipos distribuidos en tres sedes
+- Habilitación y asistencia técnica del auditorio y salas de clases para docentes
+- Implementación de acceso remoto (Google Remote Desktop) para todos los equipos
+- Automatización de tareas en los equipos: encendido y apagado programado, limpieza y restricciones de uso
+- Administración del sistema CCTV: funcionamiento, sincronización horaria, diagnóstico de fallas y coordinación con proveedor
+- Reporte trimestral de ocupación con dashboard y sistema de registro digital (Google Forms + Sheets)
 
-- Soporte presencial y remoto en sucursales
-- Gestión y priorización de tickets · Documentación de procesos · Administración de sistemas
+**🔹 Soporte TI · Inversiones Nutech Chile** *(Feb. 2026 – Mar. 2026 · Universidad Andrés Bello)*
 
-**🔹 Desarrollador Web con Enfoque en Datos · Duoc UC** *(Ago. 2023 – Dic. 2023 · Práctica académica)*
+- Soporte TI N1 a usuarios administrativos y docentes, priorizando según criticidad e impacto operativo
+- Documentación de patrones de fallas recurrentes para identificar causas raíz
+- Diagnóstico de conectividad, configuración de red y acceso a sistemas · Respaldo y migración de datos
 
-- Diseño e implementación de base de datos relacional (MySQL)
-- Desarrollo backend con Django · Control de versiones con Git
+**🔹 Personal de Soporte TI · Hoteles HW (Corporativo He Wang)** *(Abr. 2024 – Jul. 2024)*
+
+Soporte TI a las unidades del grupo: hoteles, gimnasios y oficinas corporativas.
+
+- Diagnóstico y resolución de incidencias de hardware, software y conectividad
+- Gestión y seguimiento de tickets · Administración de usuarios y correos corporativos
+- Documentación técnica de procesos y procedimientos de soporte
+
+**🔹 Práctica profesional · Duoc UC** *(Ago. 2023 – Dic. 2023)*
+
+- Diseño e implementación de base de datos relacional (MySQL) · Desarrollo backend con Django · Git
 
 ---
 
-## 🌐 Idiomas
+## 🎓 Educación
 
-| Idioma | Nivel |
-|---|---|
-| 🇨🇱 Español | Nativo |
-| 🇬🇧 Inglés | Intermedio — Certificado Internacional Duoc UC |
+| Programa | Institución | Período |
+|---|---|---|
+| Diplomado en Python & Data Analytics | Universidad Andrés Bello | 2026 – nov. 2026 (en curso) |
+| Ingeniería en Informática | Duoc UC | 2020 – 2024 |
+
+---
+
+## 📜 Certificaciones
+
+| Certificación | Institución | Fecha |
+|---|---|---|
+| [Power BI TOTAL en 14 Días — Analista de Datos Avanzado](https://ude.my/UC-2091022f-b19c-4379-97aa-c72510594839) | Udemy | Mar. 2026 |
+| [SQL TOTAL — Domina Bases de Datos de 0 a Avanzado](https://ude.my/UC-eca84a5c-1717-440e-ae8d-dc15384402d4) | Udemy | Mar. 2026 |
+| Especialización en Ciencia de Datos | Duoc UC | Ago. 2025 |
+| Inteligencia de Negocios | Duoc UC | Ago. 2025 |
+| Análisis y Desarrollo de Modelos de Datos | Duoc UC | Ago. 2025 |
+| Análisis y Planificación de Requerimientos Informáticos | Duoc UC | Ago. 2025 |
+| Programación de Software | Duoc UC | Ago. 2025 |
+| Gestión de Proyectos Informáticos | Duoc UC | Ago. 2025 |
+| Calidad de Software | Duoc UC | Ago. 2025 |
+| Arquitectura de Software | Duoc UC | Ago. 2025 |
 
 ---
 
