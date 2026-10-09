@@ -82,7 +82,7 @@ disponible : Presencial · Híbrido · Remoto
 > Reporte con identidad visual propia para un retail de electrónica: canal online (85,5%) vs. tienda física (14,5%)
 > Mapa geográfico por ciudad · Análisis por categoría · Segmentadores como botones interactivos
 
-### 📞 Dashboard Call Center — Power BI
+### 📞 [Dashboard Call Center — Power BI](https://github.com/Gerom-Fernandez/dashboard-call-center-powerbi)
 > 3 páginas: nube de palabras sobre reviews · Diagrama Sankey del flujo de llamadas · Análisis de influencia con IA
 > Hallazgo: los tiempos de espera son el principal punto crítico en la experiencia del cliente
 
